@@ -1,0 +1,18 @@
+{
+  "name": "btc-api",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Roshan Prabhakar",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ccxt": "^1.18.387",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
